@@ -12,6 +12,8 @@ Currently, I'm delving into various projects related to software development, we
 - Tools: Git, Docker, VS Code
 - Databases: MySQL, MongoDB
 - Cloud Platforms: AWS, Google Cloud
+- Learn about Wait
+- Laptop vapryacha nahi laptop allowed nhi...
 
 ## Get in Touch 📫
 I'm always open to collaborations, discussions, or simply connecting with fellow tech enthusiasts. Feel free to reach out to me via email at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/technicalsagar).
