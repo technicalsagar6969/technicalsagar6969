@@ -1,7 +1,7 @@
 # Welcome to TechnicalSagar's GitHub Repository! 🚀
 
 ## About Me ℹ️
-Hey there! I'm Sagar, a passionate IT enthusiast studying at Walchand College of Engineering, Sangli. I'm constantly exploring the world of technology, diving deep into coding, and embracing new challenges.
+Hey there! I'm Sagar, a passionate IT enthusiast studying at a prestigous college of Engineering . I'm constantly exploring the world of technology, diving deep into coding, and embracing new challenges.
 
 ## What I'm Working On 💼
 Currently, I'm delving into various projects related to software development, web development, and data science. My goal is to enhance my skills while contributing to innovative solutions that make a difference.
